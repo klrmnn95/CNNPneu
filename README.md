@@ -1,5 +1,5 @@
 # CNNPneu
-CNN approach to pneumonia detection
+
 In this notebook we employ a Convolution Neural Network approach to examine chest radiographs of patients and predict the presence of pneumonia. The original dataset "Chest X-Ray Images" is taken from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
 <div>
 <img src="https://github.com/klrmnn95/CNNPneu/blob/main/lungs.jpg"width="500" class="centerImage"/>
